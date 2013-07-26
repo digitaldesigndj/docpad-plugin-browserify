@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-browserify",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Adds support for compilation of Browserify JavaScript to DocPad",
   "homepage": "https://github.com/digitaldesigndj/docpad-plugin-browserify",
   "keywords": [
