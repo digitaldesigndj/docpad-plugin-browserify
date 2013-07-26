@@ -5,7 +5,7 @@ Runs Browserify on JavaScript files specified with the extension `.b`, `.bwsrfy`
 
 ### Installation
 
-'npm install -g docpad-plugin-browserify'
+`npm install -g docpad-plugin-browserify`
 
 ### Syntax Highlighting
 
