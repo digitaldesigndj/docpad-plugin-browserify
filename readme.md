@@ -30,3 +30,8 @@ If you are using Sublime Text You can add the following file to `Packages/User` 
 ```
 
 This will keep the JavaScript syntax highlighting intact when you change the extensions to `example.js.b` etc...
+
+
+### License 
+
+MIT
