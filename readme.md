@@ -2,17 +2,10 @@
 
 Runs Browserify on JavaScript files specified with the extension `.b`, `.bwsrfy` or `.bowserify`
 
+
 ### Installation
 
-It's not on npm yet, so install it to the `plugins` directory of your docpad site.
-
-From within your docpad project:
-
-`mkdir plugins`
-
-`cd plugins`
-
-`git clone https://github.com/digitaldesigndj/docpad-plugin-browserify browserify`
+'npm install -g docpad-plugin-browserify'
 
 ### Syntax Highlighting
 
