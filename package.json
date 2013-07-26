@@ -1,0 +1,31 @@
+{
+    "name": "docpad-plugin-browserify",
+    "version": "2.0.0",
+    "description": "DocPad plugin that adds the ability to render Something to Something Else",
+    "homepage": "https://github.com/yourgithubusername/docpad-plugin-browserify",
+    "keywords": [
+        "docpad",
+        "docpad-plugin",
+        "something",
+        "somethingelse"
+    ],
+    "author": "Copyright holders name <copyright holder's email> (copyright holder's website url)",
+    "maintainers": [
+        "Your name <your email> (your github url)"
+    ],
+    "contributors": [
+        "Your name <your email> (your github url)"
+    ],
+    "bugs": {
+        "url": "https://github.com/yourgithubusername/docpad-plugin-browserify/issues"
+    },
+    "repository" : {
+        "type": "git",
+        "url": "https://github.com/yourgithubusername/docpad-plugin-browserify.git"
+    },
+    "engines" : {
+        "node": ">=0.8",
+        "docpad": ">=6"
+    },
+    "main": "./src/browserify.plugin.coffee"
+}
