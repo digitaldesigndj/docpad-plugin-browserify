@@ -17,7 +17,7 @@ If you are using Sublime Text You can add the following file to `Packages/User` 
 {
     "extensions":
     [
-        "b","bfy",bwsrfy","browserify"
+        "b","bfy","bwsrfy","browserify"
     ]
 }
 ```
