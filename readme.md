@@ -1,6 +1,6 @@
 ## Browserify for Docpad
 
-Runs Browserify on JavaScript files specified with the extension `.b`, `.bwsrfy` or `.bowserify`
+Runs Browserify on JavaScript files specified with the extension `.b`, `.bfy`, `.bwsrfy` or `.bowserify`
 
 
 ### Installation
@@ -17,7 +17,7 @@ If you are using Sublime Text You can add the following file to `Packages/User` 
 {
     "extensions":
     [
-        "b","bwsrfy","browserify"
+        "b","bfy",bwsrfy","browserify"
     ]
 }
 ```

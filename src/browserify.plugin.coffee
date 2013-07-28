@@ -11,7 +11,7 @@ module.exports = (BasePlugin) ->
 			# Prepare
 			{inExtension,outExtension,content,file} = opts
 
-			if inExtension in ['b','bwsrfy','browserify'] and outExtension in ['js',null]
+			if inExtension in ['b','bfy','bwsrfy','browserify'] and outExtension in ['js',null]
 			# Use .js.js scheme to keep syntax highlighting intact with mininal effort
 			# if inExtension in ['js'] and outExtension in ['js',null]
 				browserify = require('browserify')
