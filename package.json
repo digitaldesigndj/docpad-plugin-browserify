@@ -27,8 +27,18 @@
     "node": ">=0.8",
     "docpad": ">=6"
   },
-  "main": "./src/browserify.plugin.coffee",
   "dependencies": {
     "browserify": "~2.25.1"
+  },
+  "main": "./out/browserify.plugin.js",
+  "devDependencies": {
+    "coffee-script": "~1.6.2",
+    "docpad": ">=6.37 <7",
+    "joe-reporter-console": "~1.2.1",
+    "joe": "~1.2.0",
+    "chai": "~1.7.2"
+  },
+  "scripts": {
+    "test": "node ./out/browserify.test.js"
   }
 }
